@@ -11,7 +11,7 @@ height = 28;
 sp = depth - ch - bt;
 
 // magnet holes and their border
-magdiam = 9.5;
+magdiam = 9.52;
 magbord = magdiam + 5;
 magcdep = 0.6;
 msx = 6.9;
